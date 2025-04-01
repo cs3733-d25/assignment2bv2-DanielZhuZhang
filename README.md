@@ -3,7 +3,7 @@
 *DUE: Tuesday, April 2 by 11:59pm, but we will accept the assignment until April 3 at 11:59pm without penalty, if you need the extra day.  
 
 **Enter both of your names below. If we cannot figure out who did the assignment, we cannot grade it!**
-### Name: 
+### Name: Daniel Zhang
 ### Name: 
 ---
 Use this assignment to get up to speed with React.js using the Webstorm IDE, and using Git with another person. When you have completed the assignment, make sure to push your repository to your assignment2b github repository. 
@@ -20,7 +20,7 @@ You will take the web page you created in Assignment 1b and will combine it with
    c. __form.tsx__ component (form from Assignment 1b)
 5. __hobby2.tsx__ component that introduces the hobby of the second person. Create the corresponding list2, table2, and form2 components similar to what is done for hobby1.
 
-Use the App.css stylesheet for all components, except create a list.css and with different styles and use it in list.tsx.
+Use the App.css stylesheet for all components, except create a list.css and with different styles and use it in list1.tsx.
 
 ## Assignment Details
 * Use Webstorm to clone this repository on your computer.
