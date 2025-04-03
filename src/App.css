@@ -46,3 +46,12 @@ ul{
 table {
   margin: 0 auto;
 }
+
+.border {
+  border-style: solid;
+}
+
+.label {
+  color: #888888;
+  text-align: left;
+}
